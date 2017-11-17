@@ -1,5 +1,4 @@
-# awesome-unsupervised--earning
-awesome unsupervised learning paper list
+# awesome-unsupervised--learning
 A list of all papers on unsupervised and weakly supervised learning.
 
 1. Context Encoder
