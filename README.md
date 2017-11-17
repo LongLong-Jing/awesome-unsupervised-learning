@@ -1,6 +1,6 @@
 # awesome-unsupervised--earning
 awesome unsupervised learning paper list
-
+A list of all papers on unsupervised and weakly supervised learning.
 
 1. Context Encoder
 Link: http://graphics.cs.cmu.edu/projects/deepContext/
@@ -44,4 +44,16 @@ Link: https://arxiv.org/pdf/1609.04802.pdf
 14. Wasserstein GAN
 Link: https://arxiv.org/pdf/1701.07875.pdf
 
-15. 
+15. Unsupervised Learning of Video Representations using LSTMs
+Link: https://arxiv.org/pdf/1502.04681.pdf
+
+16. Spatial contrasting for deep unsupervised learning
+Link: https://arxiv.org/pdf/1610.00243.pdf
+
+17. Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning
+Link: https://arxiv.org/pdf/1605.08104.pdf
+
+18. MoCoGAN: Decomposing Motion and Content for Video Generation
+Link: https://arxiv.org/pdf/1707.04993.pdf
+
+
