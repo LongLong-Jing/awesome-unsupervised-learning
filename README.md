@@ -26,4 +26,22 @@ Link: https://arxiv.org/pdf/1612.07217.pdf
 8. Learning Features by Watching Objects Move
 Link: https://arxiv.org/pdf/1612.06370.pdf
 
-9.
+9. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+Link： https://arxiv.org/pdf/1511.06434.pdf
+
+10. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+Link: https://junyanz.github.io/CycleGAN/
+
+11. Globally and Locally Consistent Image Completion
+Link: http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/
+
+12. High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
+Link: https://arxiv.org/pdf/1611.09969.pdf
+
+13. Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+Link: https://arxiv.org/pdf/1609.04802.pdf
+
+14. Wasserstein GAN
+Link: https://arxiv.org/pdf/1701.07875.pdf
+
+15. 
