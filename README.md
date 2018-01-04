@@ -3,7 +3,7 @@ A list of all papers on unsupervised and weakly supervised learning.
 
 1. Context Encoder
 
-Link: http://graphics.cs.cmu.edu/projects/deepContext/
+   Link: http://graphics.cs.cmu.edu/projects/deepContext/
 
 2. Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
 
